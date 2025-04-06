@@ -3,8 +3,8 @@
 <h1>🥋 TKU KampfPortal 🥋</h1>
 
 <div>
-  <img src="./assets/images/university_logo.svg" width="120" alt="University Logo" style="margin: 0 20px;"/>
-  <img src="./assets/images/club_logo.png" width="120" alt="Taekwondo UIT Club Logo" style="margin: 0 20px;"/>
+  <img src=".././assets/images/university_logo.svg" width="120" alt="University Logo" style="margin: 0 20px;"/>
+  <img src=".././assets/images/club_logo.png" width="120" alt="Taekwondo UIT Club Logo" style="margin: 0 20px;"/>
 </div>
 
 <div>
