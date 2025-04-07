@@ -11,7 +11,7 @@
   <p><b>University of Information Technology</b> • <b>Taekwondo UIT Club</b></p>
 </div>
 
-<img src="https://img.shields.io/github/stars/tku-kampfportal/tku-kampfportal?style=social" alt="GitHub stars" />
+<img src="https://img.shields.io/github/stars/tku-kampfportal/.github?style=social" alt="GitHub stars" />
 <img src="https://img.shields.io/badge/license-MIT-blue" alt="License"/>
 <img src="https://img.shields.io/badge/status-active-success" alt="Status"/>
 <img src="https://img.shields.io/badge/Taekwondo-UIT-3498db" alt="Taekwondo UIT"/>
